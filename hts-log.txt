@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Apr 2024 03:40:34 at http://markdionniebulingit.test/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1%B%s%uN0%I0p7DaK0c8H0%kf2A5000000%c10#L10000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://markdionniebulingit.test/ -O1 "C:\My Web Sites\markdionniebulingit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:40:34	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+03:40:34	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+03:40:56	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from markdionniebulingit.test/)
+03:40:56	Warning: 	HTML file (246654 bytes) retransferred due to lack of cache: markdionniebulingit.test/wp-json/
+03:40:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): markdionniebulingit.test/wp-json/wp/v2/pages/7
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Black.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-BlackItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Bold.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-BoldItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Light.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-LightItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Thin.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-ThinItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-ExtraLight.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-ExtraLightItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Medium.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-MediumItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-Regular.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+03:41:15	Error: 	"Not Found" (404) at link markdionniebulingit.test/wp-content/uploads/2024/04/MonoLisa-RegularItalic.ttf (from markdionniebulingit.test/wp-content/uploads/elementor/css/post-6.css?ver=1712330788)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 106 links scanned, 90 files written (8082976 bytes overall) [8489328 bytes received at 202126 bytes/sec], 51 bytes transferred using HTTP compression in 1 files, ratio 100%, 8.0 requests per connection
+(15 errors, 4 warnings, 0 messages)
