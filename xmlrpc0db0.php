@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://markdionniebulingit.test/</homePageLink>
+		<homePageLink>https://markdionniebulingit.vercel.app/</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://markdionniebulingit.test/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://markdionniebulingit.test/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://markdionniebulingit.test/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://markdionniebulingit.test/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://markdionniebulingit.test/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://markdionniebulingit.vercel.app/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://markdionniebulingit.vercel.app/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://markdionniebulingit.vercel.app/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://markdionniebulingit.vercel.app/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://markdionniebulingit.vercel.app/wp-json/" />
 			</apis>
 	</service>
 </rsd>
